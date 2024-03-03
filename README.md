@@ -37,7 +37,7 @@ Tic-Tac-Toe Web Game App is a simple, browser-based implementation of the classi
 Feedback and contributions are welcome! Feel free to submit issues or pull requests on the GitHub repository.
 
 #### Demo:
-[Link to Live Demo](link-to-live-demo)
+[Link to Live Demo](https://comforting-gumption-a57cf7.netlify.app/)
 
 #### Screenshots:
 ![Screenshot 1](screenshot1.png)

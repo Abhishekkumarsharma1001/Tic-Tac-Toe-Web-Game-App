@@ -40,8 +40,8 @@ Feedback and contributions are welcome! Feel free to submit issues or pull reque
 [Link to Live Demo](https://comforting-gumption-a57cf7.netlify.app/)
 
 #### Screenshots:
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](https://github.com/Abhishekkumarsharma1001/Tic-Tac-Toe-Web-Game-App/blob/main/Screenshot%202024-03-04%20004701.png)
+![Screenshot 2](https://github.com/Abhishekkumarsharma1001/Tic-Tac-Toe-Web-Game-App/blob/main/Screenshot%202024-03-04%20004553.png)
 
 #### Contact:
 For any inquiries or support, please contact [abhikumarsharma146@gmail.com].

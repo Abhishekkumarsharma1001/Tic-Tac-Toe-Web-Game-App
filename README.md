@@ -44,4 +44,5 @@ Feedback and contributions are welcome! Feel free to submit issues or pull reque
 ![Screenshot 2](https://github.com/Abhishekkumarsharma1001/Tic-Tac-Toe-Web-Game-App/blob/main/Screenshot%202024-03-04%20004553.png)
 
 #### Contact:
-For any inquiries or support, please contact [abhikumarsharma146@gmail.com].
+For any inquiries or support, 
+please contact [abhikumarsharma146@gmail.com].
